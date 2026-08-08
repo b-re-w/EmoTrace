@@ -234,3 +234,8 @@ trainer_output/
 .omc
 .claude
 .agents
+
+# Experiment artefacts
+outputs/
+trainer_output/
+.nfs*
